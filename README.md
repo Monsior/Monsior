@@ -37,6 +37,5 @@
 
 ###
 
-<div data-importer="stats" align="center">
-  [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=anuraghazra&hide_rank=true&show_icons=true&include_all_commits=true&theme=codeSTACKr)](https://github-stats-extended.vercel.app/api?username=Monsior&hide_rank=true&show_icons=true&include_all_commits=true&theme=codeSTACKr)
-###
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Monsior&hide_rank=true&show_icons=true&include_all_commits=true&theme=codeSTACKr)](https://github.com/Monsior)
+
